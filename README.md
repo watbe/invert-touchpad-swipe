@@ -1,3 +1,9 @@
+# Archived
+
+Moved to https://github.com/watbe/framework-ubuntu-utils/tree/main/invert-touchpad-swipe 
+
+---
+
 # Invert Vertical Touchpad Swipe
 
 A small GNOME Shell extension that reverses the direction of **vertical
